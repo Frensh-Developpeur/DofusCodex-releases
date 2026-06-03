@@ -1,0 +1,1 @@
+# DofusCodex-releases
